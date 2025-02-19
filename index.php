@@ -1,4 +1,4 @@
-<?php
+<?html
 include('./confing/common.php');
 ?>
 <!DOCTYPE html>
